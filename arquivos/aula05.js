@@ -1,0 +1,9 @@
+/*
+OPERADORES RELACIONAIS
+>
+>=
+<
+<=
+== igual
+!= diferente
+*/
